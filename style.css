@@ -1,0 +1,33 @@
+body{
+	background-color: #000;
+}
+
+table{
+	background-color: #fff;
+}
+
+h4{
+	
+}
+
+.banner{
+	background-color: yellow; 
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 0;
+	text-align: center;
+}
+
+.row{
+	color:#000;
+	padding-top: 0px;
+}
+
+
+tr:hover { background: #ADD8E6; }
+
+
+.col{
+	width: 33%;
+	padding-left: 50px;
+}
